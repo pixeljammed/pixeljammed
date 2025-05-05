@@ -1,6 +1,6 @@
 > [!IMPORTANT]  
 > ## www.milotek.dev
-> > [projects](https://milotek.dev#projects) | [work](https://linkedin.com/in/goated) | [cv](https://milotek.dev#cv) | [games](https://milotek.dev#games) | [artwork](https://milotek.dev#arts)
+> > [projects](https://milotek.dev#projects) | [work](https://linkedin.com/in/goated) | [cv](https://milotek.dev#cv) | [games](https://milotek.dev#games) | [artwork](https://milotek.dev#arts) | [email](mailto:milo@milotek.dev)
 > > 
 > > I am a sixth former from the UK. Happy to talk!
 
