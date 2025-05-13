@@ -6,4 +6,4 @@
 
 [![Contributions Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://milotek.dev)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000&label=views)
+![](https://komarev.com/ghpvc/?username=pixeljammed&base=1000&label=views)
