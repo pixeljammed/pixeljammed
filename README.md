@@ -4,7 +4,7 @@
 > > 
 > > I am a sixth former from the UK. Happy to talk!
 > > 
-> > **I've paused programming as of 19/05/2025 as I have exams season.**
+> > **I've paused programming as of 19/05/2025 as I have exams ongoing.**
 
 [![Contributions Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://milotek.dev)
 
