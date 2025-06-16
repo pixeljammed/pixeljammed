@@ -8,4 +8,4 @@
 
 [![Contributions Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://milotek.dev)
 
-![](https://komarev.com/ghpvc/?username=pixeljammed&base=420&label=views)
+![View Counter](https://komarev.com/ghpvc/?username=pixeljammed&style=for-the-badge&base=420&label=views)
