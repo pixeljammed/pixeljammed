@@ -1,9 +1,10 @@
 > [!IMPORTANT]  
 > ## www.milotek.dev
 > > [projects](https://milotek.dev#projects) | [work](https://linkedin.com/in/goated) | [cv](https://milotek.dev#cv) | [games](https://milotek.dev#games) | [artwork](https://milotek.dev#arts)
+> >
+> > Incoming software engineer apprentice at Google.
 > > 
-> > I am a sixth former from the UK. Happy to talk - seriously I don't bite! =)
-> > Discord: `pixeljam`
+> > Happy to chat about anything - seriously I don't bite! =)
 
 [![Contributions Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://milotek.dev)
 
